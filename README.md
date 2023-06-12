@@ -2,8 +2,6 @@
 
 Drawing on Computers using Gestures
 
-This project is a part of Intelligent Computing Course (CSE-342) at IIT BHU, for the odd semester 2021-2022.
-
 ## Features
 
 -   Finger Detection using Mediapipe
